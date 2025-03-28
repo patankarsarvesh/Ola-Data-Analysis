@@ -1,7 +1,6 @@
 # Ola-Data-Analysis
 Data Analysis on Sample Ola Data using Excel, SQL, and Power BI. Includes data cleaning, SQL queries, and Power BI dashboard visualization.
 
-🚖 Ola Ride Data Analysis
 📌 About This Project
 Hey there! 👋 This project is all about diving into Ola ride data and uncovering interesting insights using Excel, SQL, and Power BI. The goal was to clean the data, analyze key trends, and visualize everything with an interactive dashboard.
 
